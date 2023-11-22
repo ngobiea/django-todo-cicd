@@ -12,11 +12,7 @@ pipeline {
 
             }
         }
-        // stage('Test') {
-        //     steps {
-        //         sh 'python3 manage.py'
-        //     }
-        // }
+        
         // stage('Deploy') {
         //     steps {
         //         sh 'python3 deploy.py'
